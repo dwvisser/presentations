@@ -3,6 +3,7 @@
 Files are organized by presenter's last name.
 
 Billings, Jay Jay - "The New Energy Science and Technology Software Center"
+Visser, Dale - "Python-specific Packaging"
 
 ## Contributing
 
